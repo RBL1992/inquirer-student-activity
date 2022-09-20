@@ -1,0 +1,23 @@
+{
+  "name": "inquirer-student-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBL1992/inquirer-student-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBL1992/inquirer-student-activity/issues"
+  },
+  "homepage": "https://github.com/RBL1992/inquirer-student-activity#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
